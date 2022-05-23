@@ -1,4 +1,4 @@
-# FIAP Solution Sprint 
+# 1ª fase Firsts Step Data Engineer - Desafio Brazilian E-Commerce
 # Introdução
 
 Na 1ª fase Firsts Step Data Engineer – ecossistema big data, data governance e agile database project – nós colocamos em prática todo conhecimento adiquirido nos materiais disponibilizados, live e bate papos via Slack.
