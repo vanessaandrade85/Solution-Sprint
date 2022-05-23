@@ -1,7 +1,8 @@
 # FIAP Solution Sprint 
 # Introdução
 
-No desafio: Brazilian E-Commerce temos a agradecer ao Leandro Moraes Mendes é Data Engineering Manager na PetLove a todo apoio e ensinamento durante as etaoas do projeto.
+Na 1ª fase Firsts Step Data Engineer – ecossistema big data, data governance e agile database project – nós colocamos em prática todo conhecimento adiquirido nos materiais disponibilizados, live e bate papos via Slack.
+Foi apresentado neste modulo o mundo dos dados georreferenciados e as possíveis análises que serão realizadas após o tratamento dos dados.
 
 # Cenário
 
@@ -15,7 +16,7 @@ Haddop é de código aberto que permite o armazenamento e processamento distribu
 
 # Projeto 
 
-Será realizado no ecossistema big data simples com HDFS e Hive.
+O projeto será desenvolvido no no ecossistema big data simples com HDFS e Hive
 
 ## Arquitetura de dados
 1) O diagrama da arquitetura de dados proposta.
