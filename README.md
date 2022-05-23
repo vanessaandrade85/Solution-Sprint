@@ -33,6 +33,9 @@ O projeto será desenvolvido no no ecossistema big data simples com HDFS e Hive
 
 ## Criação das tabelas no HIVE
 3) Os scripts com os comandos para a criação da tabela no Hive.
+##### Cliente
+- CREATE EXTERNAL TABLE clientes (customer_id string, customer_unique_id string, customer_zip_code_prefix string, customer_city string, customer_state string) ROW FORMAT DELIMITED FIelDS TERMINATED BY ',' STORED AS TEXTFILE
+
 
 ## Consultas SQL para as questões
  4) Um documento denominado resposta.doc com as queries e as respostas das questões propostas.
