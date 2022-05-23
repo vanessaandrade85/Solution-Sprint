@@ -1,4 +1,5 @@
 # 1ª fase Firsts Step Data Engineer - Desafio Brazilian E-Commerce
+
 # Introdução
 
 Na 1ª fase Firsts Step Data Engineer – ecossistema big data, data governance e agile database project – nós colocamos em prática todo conhecimento adiquirido nos materiais disponibilizados, live e bate papos via Slack.
@@ -19,7 +20,7 @@ Haddop é de código aberto que permite o armazenamento e processamento distribu
 O projeto será desenvolvido no no ecossistema big data simples com HDFS e Hive
 
 ## Arquitetura de dados
-1) O diagrama da arquitetura de dados proposta.
+![image](https://user-images.githubusercontent.com/49320014/169921232-beefc3f2-54bf-43ce-ae77-da290b41689b.png)
 
 ## Importação dos arquivos para o HDFS
  2) Evidências da importação dos arquivos no HDFS – Print do ls (hdfs.jpeg).
