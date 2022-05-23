@@ -17,29 +17,24 @@ Haddop é de código aberto que permite o armazenamento e processamento distribu
 
 Será realizado no ecossistema big data simples com HDFS e Hive.
 
-## Arquitetura para obtenção de dados
+## Arquitetura de dados
 
+## Importação dos arquivos para o HDFS
 
-Elaborar uma arquitetura para obtenção e tratamento dos dados.
-Importar os arquivos para o HDFS.
-Atualizar os dados de localização com as APIs citadas
-Criar tabela(s) no Hive para realizar consultas analíticas.
-Construir consultas SQL para responder às questões:
--        Segmentar os clientes por geolocalização.
+## Atualização dos dados de localização
+### Geolocalização
+### Correios
 
--        Total de pedidos por período e categorias.
+## Criação das tabelas no HIVE
 
--        Total de pagamentos por método de pagamento.
+## Consultas SQL para as questões
+### Segmentar os clientes por geolocalização
+### Total de pedidos por período e categorias.
+### Total de pagamentos por método de pagamento.
+### Notas das avaliações.
+###  Vendedores x vendas.
+### Produtos mais vendidos.
 
--        Quantas vezes as equipes visitantes saíram vitoriosas?
-
--        Notas das avaliações.
-
--        Vendedores x vendas.
-
--        Produtos mais vendidos.
-
--        Outras questões.
 
  
 
