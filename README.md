@@ -20,10 +20,15 @@ Haddop é de código aberto que permite o armazenamento e processamento distribu
 O projeto será desenvolvido no no ecossistema big data simples com HDFS e Hive
 
 ## Arquitetura de dados
+
 ![image](https://user-images.githubusercontent.com/49320014/169921232-beefc3f2-54bf-43ce-ae77-da290b41689b.png)
 
 ## Importação dos arquivos para o HDFS
- 2) Evidências da importação dos arquivos no HDFS – Print do ls (hdfs.jpeg).
+
+Consulta de arquivos via comando LS no HDFS
+
+![image](https://user-images.githubusercontent.com/49320014/169924091-95d07038-ee5b-4645-a49f-ea677ea7e08e.png)
+
 
 ## Utilização das APIS
  5) Exemplo de uso da API.
@@ -74,14 +79,14 @@ Lista de tabelas com dados obtidos pela biblioteca Olist e dados mestres atualiz
 -  Criação da tabela Vendedores - Tabela que armazena os dados mestres obtidos pela bilioteca Olist
         
         CREATE EXTERNAL TABLE sellers (seller_id string, seller_zip_code_prefix string, seller_ciry string, seller_state string) ROW FORMAT DELIMITED FIelDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION '/olist/sellers/'
-        
+
 ## Consultas SQL para as questões
  4) Um documento denominado resposta.doc com as queries e as respostas das questões propostas.
 ### Segmentar os clientes por geolocalização
 ### Total de pedidos por período e categorias.
 ### Total de pagamentos por método de pagamento.
 ### Notas das avaliações.
-###  Vendedores x vendas.
+### Vendedores x vendas.
 ### Produtos mais vendidos.
   
            
